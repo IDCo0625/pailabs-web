@@ -173,3 +173,6 @@ img{max-width:100%}
   .form-card{padding:28px 20px}
   .pai-box span{font-size:60px}
 }
+.badge{align-self:flex-start;display:inline-block;font-size:12px;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--sand);color:var(--navy)}
+.title-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.title-row .eyebrow{display:inline}
